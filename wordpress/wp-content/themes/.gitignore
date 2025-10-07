@@ -1,0 +1,6 @@
+*
+!.gitignore
+
+# Track themes
+!blocksy/
+!blocksy/**

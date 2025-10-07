@@ -1,0 +1,14 @@
+*
+!.gitignore
+
+# Track themes
+!themes/
+!themes/**
+
+# Track plugins
+!plugins/
+!plugins/**
+
+# Track must-use plugins
+!mu-plugins/
+!mu-plugins/**

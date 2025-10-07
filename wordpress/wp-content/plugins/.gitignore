@@ -1,0 +1,6 @@
+*
+!.gitignore
+
+# Track plugins
+!my-plugin/
+!my-plugin/**

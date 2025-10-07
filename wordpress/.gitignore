@@ -1,0 +1,7 @@
+*.php
+!.gitignore
+license.txt
+readme.txt
+readme.html
+.htaccess
+init.sh
